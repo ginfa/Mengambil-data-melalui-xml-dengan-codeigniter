@@ -1,0 +1,17 @@
+/*.row {
+    margin-top: 80px;
+}*/
+
+body {
+    overflow-x: hidden;
+}
+
+#content {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#thead td {
+    font-weight: bold;
+    font-size: 20px;
+}

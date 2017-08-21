@@ -1,0 +1,35 @@
+<bmtmuhajirin>
+  <datauser>
+  <datauser id="1">
+    <id_nasabah>1</id_nasabah>
+    <nama>fdfd</nama>
+    <tempat_tanggal_lahir>1996-05-28</tempat_tanggal_lahir>
+    <pekerjaan>wirausaha</pekerjaan>
+    <nomor_identitas>4678567856938476856987</nomor_identitas>
+    <status>aktif</status>
+    <pendidikan_terakhir>S2 Teknik komputer</pendidikan_terakhir>
+    <jumlah_tanggungan>3</jumlah_tanggungan>
+    <lama_usaha>5</lama_usaha>
+    <status_usaha>aktif</status_usaha>
+    <status_rumah>milik sendiri</status_rumah>
+    <alamat>fdfd</alamat>
+    <no_tlp>0843273423</no_tlp>
+    <alamat_kantor>Jl. Margonda</alamat_kantor>
+    <no_tlp_kantor>085327342</no_tlp_kantor>
+    <status_user>true</status_user>
+  </datauser>
+  <datauser id="2">
+    <id_nasabah>0</id_nasabah>
+    <nama>fdsfsaf</nama>
+    <tempat_tanggal_lahir>0000-00-00</tempat_tanggal_lahir>
+    <pekerjaan/><nomor_identitas/><status/><pendidikan_terakhir/>
+    <jumlah_tanggungan/><lama_usaha/><status_usaha/><status_rumah/><alamat>fsdfdsf</alamat><no_tlp/><alamat_kantor/><no_tlp_kantor/>
+<status_user/></datauser><datauser id="3">
+<id_nasabah>0</id_nasabah><nama>werewr</nama><tempat_tanggal_lahir>0000-00-00</tempat_tanggal_lahir><pekerjaan/><nomor_identitas/><status/><pendidikan_terakhir/><jumlah_tanggungan/><lama_usaha/><status_usaha/><status_rumah/><alamat>rerer</alamat><no_tlp/><alamat_kantor/><no_tlp_kantor/><status_user/></datauser></datauser><datapenghasilan><datapenghasilan id="1"><no_rekening>1</no_rekening><penghasilan_suami>11</penghasilan_suami><penghasilan_istri>11</penghasilan_istri>
+<penghasilan_lainnya>11</penghasilan_lainnya><biaya_rmh_tangga>11</biaya_rmh_tangga><biaya_kebutuhan_anak>11</biaya_kebutuhan_anak><pengeluaran_pribadi>11</pengeluaran_pribadi><pembayaran_hutang>11</pembayaran_hutang><pengeluaran_lainnya>11</pengeluaran_lainnya><status_datapenghasilan/></datapenghasilan><datapenghasilan id="2">
+<no_rekening>2</no_rekening><penghasilan_suami>20000</penghasilan_suami><penghasilan_istri>20000</penghasilan_istri><penghasilan_lainnya>20000</penghasilan_lainnya><biaya_rmh_tangga>20000</biaya_rmh_tangga><biaya_kebutuhan_anak>20000</biaya_kebutuhan_anak><pengeluaran_pribadi>20000</pengeluaran_pribadi><pembayaran_hutang>20000</pembayaran_hutang><pengeluaran_lainnya>20000</pengeluaran_lainnya><status_datapenghasilan/>
+</datapenghasilan><datapenghasilan id="3"><no_rekening>3</no_rekening><penghasilan_suami>300000</penghasilan_suami><penghasilan_istri>300000</penghasilan_istri>
+<penghasilan_lainnya>300000</penghasilan_lainnya><biaya_rmh_tangga>300000</biaya_rmh_tangga><biaya_kebutuhan_anak>300000</biaya_kebutuhan_anak><pengeluaran_pribadi>300000</pengeluaran_pribadi><pembayaran_hutang>300000</pembayaran_hutang><pengeluaran_lainnya>300000</pengeluaran_lainnya><status_datapenghasilan/></datapenghasilan></datapenghasilan><ahliwaris><ahliwaris id="1">
+<no_rekening>1</no_rekening><nama>ginfa</nama><alamat>depok</alamat><hubungan>sodara</hubungan><pekerjaan>pns</pekerjaan><status_ahliwaris>0</status_ahliwaris></ahliwaris><ahliwaris id="2"><no_rekening>0</no_rekening><nama>munir</nama><alamat>bogor</alamat><hubungan>ipar</hubungan><pekerjaan>polisi</pekerjaan><status_ahliwaris>0</status_ahliwaris></ahliwaris></ahliwaris>
+<pembiayaan><pembiayaan id="1">
+<id_pegawai>1</id_pegawai><no_rekening>1</no_rekening><jumlah_permohonan_pembiayaan>900000</jumlah_permohonan_pembiayaan><digunakan_untuk>beli hp</digunakan_untuk><jangka_waktu>12 bulan</jangka_waktu><sumber_pelunasan>gaji pns</sumber_pelunasan><jaminan>stnk</jaminan><status>belum lunas</status><rencana_pembayaran_per/><angsuran_pokok/><margin/></pembiayaan></pembiayaan></bmtmuhajirin>
